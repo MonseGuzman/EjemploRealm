@@ -193,6 +193,7 @@ public class MainActivity extends AppCompatActivity implements RealmChangeListen
         super.onCreateContextMenu(menu, v, menuInfo);
     }
 
+    //menu desplegable en listview
     @Override
     public boolean onContextItemSelected(MenuItem item)
     {
